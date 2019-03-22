@@ -1,0 +1,17 @@
+--2019-03-22 17:27:48--  https://github.com/gnea/grbl/releases/download/v1.1f.20170801/grbl_v1.1f.20170801.hex
+Resolving github.com (github.com)... 192.30.255.113, 192.30.255.112
+접속 github.com (github.com)|192.30.255.113|:443... 접속됨.
+HTTP request sent, awaiting response... 302 Found
+Location: https://github-production-release-asset-2e65be.s3.amazonaws.com/68751856/5ed0ee1a-7762-11e7-946e-3867f51dbf0b?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20190322%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20190322T082749Z&X-Amz-Expires=300&X-Amz-Signature=0aae0fcf8e49919e7a7dcdb3d11d204a6699a7a89db95d50d7db24d155adc7f8&X-Amz-SignedHeaders=host&actor_id=0&response-content-disposition=attachment%3B%20filename%3Dgrbl_v1.1f.20170801.hex&response-content-type=application%2Foctet-stream [following]
+--2019-03-22 17:27:49--  https://github-production-release-asset-2e65be.s3.amazonaws.com/68751856/5ed0ee1a-7762-11e7-946e-3867f51dbf0b?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20190322%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20190322T082749Z&X-Amz-Expires=300&X-Amz-Signature=0aae0fcf8e49919e7a7dcdb3d11d204a6699a7a89db95d50d7db24d155adc7f8&X-Amz-SignedHeaders=host&actor_id=0&response-content-disposition=attachment%3B%20filename%3Dgrbl_v1.1f.20170801.hex&response-content-type=application%2Foctet-stream
+Resolving github-production-release-asset-2e65be.s3.amazonaws.com (github-production-release-asset-2e65be.s3.amazonaws.com)... 52.216.130.171
+접속 github-production-release-asset-2e65be.s3.amazonaws.com (github-production-release-asset-2e65be.s3.amazonaws.com)|52.216.130.171|:443... 접속됨.
+HTTP request sent, awaiting response... 200 OK
+Length: 85775 (84K) [application/octet-stream]
+Saving to: ‘grbl_v1.1f.20170801.hex.3’
+
+     0K .......... .......... .......... .......... .......... 59%  252K 0s
+    50K .......... .......... .......... ...                  100%  170K=0.4s
+
+2019-03-22 17:27:50 (211 KB/s) - ‘grbl_v1.1f.20170801.hex.3’ saved [85775/85775]
+
